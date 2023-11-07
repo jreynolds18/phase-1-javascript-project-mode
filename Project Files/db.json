@@ -1,10 +1,10 @@
 {
-    "classes": {
+    "classes": [
         {
             "class": "Artificer",
             "core ability": "Intelligence",
             "feature": "Infuse Item"
-        }
+        },
         {
             "class": "Barbarian",
             "core ability": "Strength",
@@ -14,60 +14,56 @@
             "class": "Bard",
             "core ability": "Charisma",
             "feature": "Bardic Inspiration"
-        }
+        },
         {
             "class": "Cleric",
             "core ability": "Wisdom",
             "feature": "Channel Divinity"
-        }
+        },
         {
             "class": "Druid",
             "core ability": "Wisdom",
             "feature": "Wild Shape"
-        }
+        },
         {
             "class": "Fighter",
             "core ability": "Strength",
             "feature": "Fighting Style"
-        }
+        },
         {
             "class": "Monk",
             "core ability": "Dexterity",
             "feature": "Ki"
-        }
+        },
         {
             "class": "Paladin",
             "core ability": "Strength",
             "feature": "Divine Smite"
-        }
+        },
         {
             "class": "Ranger",
             "core ability": "Dexterity",
-            "feature": "Favored Enemy/Terrain",
-        }
+            "feature": "Favored Enemy/Terrain"
+        },
         {
             "class": "Rogue",
             "core ability": "Dexterity",
             "feature": "Sneak Attack"
-        }
+        },
         {
             "class": "Sorcerer",
             "core ability": "Charisma",
             "feature": "Metamagic"
-        }
+        },
         {
             "class": "Warlock",
             "core ability": "Charisma",
             "feature": "Invocations"
-        }
+        },
         {
             "class": "Wizard",
             "core ability": "Intelligence",
             "feature": "Spellbook"
         }
-    }
-    "class":
-        "Barbarian", "Bard", "Cleric", "Druid", "Fighter", "Monk", "Paladin", "Ranger", "Rogue", "Sorcerer", "Warlock", "Wizard", "Artificer"
     ]
-
 }
