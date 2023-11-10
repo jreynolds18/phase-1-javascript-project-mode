@@ -39,6 +39,14 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  function toggleDarkMode() {
+    document.body.classList.toggle("dark-mode");
+  }
+  const modeToggleBtn = document.getElementById("modeToggleBtn");
+    if (modeToggleBtn) {
+        modeToggleBtn.addEventListener("click", toggleDarkMode);
+    }
+
   function createParagraph(content) {
     const paragraph = document.createElement("p");
     paragraph.textContent = content;

@@ -4,6 +4,25 @@ body {
 }
 
 body.dark-mode {
-    background-color: #333;
+    background-color: #1d1c1c;
     color: #fff;
+}
+
+#titleBox {
+    text-align: center;
+}
+#container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#button-container {
+    text-align: right;
+    margin-top: 0px; 
+}
+
+#modeToggleBtn {
+    padding: 5px;
+    cursor: pointer;
 }
