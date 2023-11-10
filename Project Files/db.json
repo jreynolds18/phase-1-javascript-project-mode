@@ -2,67 +2,67 @@
     "classes": [
         {
             "class": "Artificer",
-            "core ability": "Intelligence",
+            "core_ability": "Intelligence",
             "feature": "Infuse Item"
         },
         {
             "class": "Barbarian",
-            "core ability": "Strength",
+            "core_ability": "Strength",
             "feature": "Rage"
         },
         {
             "class": "Bard",
-            "core ability": "Charisma",
+            "core_ability": "Charisma",
             "feature": "Bardic Inspiration"
         },
         {
             "class": "Cleric",
-            "core ability": "Wisdom",
+            "core_ability": "Wisdom",
             "feature": "Channel Divinity"
         },
         {
             "class": "Druid",
-            "core ability": "Wisdom",
+            "core_ability": "Wisdom",
             "feature": "Wild Shape"
         },
         {
             "class": "Fighter",
-            "core ability": "Strength",
+            "core_ability": "Strength",
             "feature": "Fighting Style"
         },
         {
             "class": "Monk",
-            "core ability": "Dexterity",
+            "core_ability": "Dexterity",
             "feature": "Ki"
         },
         {
             "class": "Paladin",
-            "core ability": "Strength",
+            "core_ability": "Strength",
             "feature": "Divine Smite"
         },
         {
             "class": "Ranger",
-            "core ability": "Dexterity",
+            "core_ability": "Dexterity",
             "feature": "Favored Enemy/Terrain"
         },
         {
             "class": "Rogue",
-            "core ability": "Dexterity",
+            "core_ability": "Dexterity",
             "feature": "Sneak Attack"
         },
         {
             "class": "Sorcerer",
-            "core ability": "Charisma",
+            "core_ability": "Charisma",
             "feature": "Metamagic"
         },
         {
             "class": "Warlock",
-            "core ability": "Charisma",
+            "core_ability": "Charisma",
             "feature": "Invocations"
         },
         {
             "class": "Wizard",
-            "core ability": "Intelligence",
+            "core_ability": "Intelligence",
             "feature": "Spellbook"
         }
     ]
