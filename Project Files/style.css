@@ -11,18 +11,31 @@ body.dark-mode {
 #titleBox {
     text-align: center;
 }
+
 #container {
     max-width: 800px;
-    margin: 0 auto;
+    margin: 50px;
     text-align: left;
 }
 
-#button-container {
-    text-align: right;
-    margin-top: 0px; 
+#class-image-container{
+    text-align: center;
+    height: 30%;
+}
+.class-image {
+    
+    max-width: 100%;
+    margin-bottom: 10px;
 }
 
-#modeToggleBtn {
+#button-container {
+    flex: 1;
+    text-align: right;
+    margin-right: 50px;
+}
+
+#mode-toggle {
     padding: 5px;
     cursor: pointer;
 }
+

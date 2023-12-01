@@ -3,66 +3,79 @@
         {
             "class": "Artificer",
             "core_ability": "Intelligence",
+            "image": "https://www.gmbinder.com/images/kOBf2QB.png",
             "feature": "Infuse Item"
         },
         {
             "class": "Barbarian",
             "core_ability": "Strength",
+            "image": "https://www.gmbinder.com/images/0C2MkKJ.png",
             "feature": "Rage"
         },
         {
             "class": "Bard",
             "core_ability": "Charisma",
+            "image": "https://i.imgur.com/7Ax3AZe.png",
             "feature": "Bardic Inspiration"
         },
         {
             "class": "Cleric",
             "core_ability": "Wisdom",
+            "image": "https://i.imgur.com/k7TI8qR.png",
             "feature": "Channel Divinity"
         },
         {
             "class": "Druid",
             "core_ability": "Wisdom",
+            "image": "https://www.dndbeyond.com/avatars/thumbnails/6/346/420/618/636272691461725405.png",
             "feature": "Wild Shape"
         },
         {
             "class": "Fighter",
             "core_ability": "Strength",
+            "image": "https://i.redd.it/keri6xwfil9b1.png",
             "feature": "Fighting Style"
         },
         {
             "class": "Monk",
             "core_ability": "Dexterity",
+            "image": "https://i.imgur.com/9WMd5Gq.png",
             "feature": "Ki"
         },
         {
             "class": "Paladin",
             "core_ability": "Strength",
+            "image": "https://www.dndbeyond.com/avatars/thumbnails/6/365/420/618/636272701937419552.png",
             "feature": "Divine Smite"
         },
         {
             "class": "Ranger",
             "core_ability": "Dexterity",
+            "image": "https://www.dndbeyond.com/avatars/thumbnails/6/367/420/618/636272702826438096.png",
             "feature": "Favored Enemy/Terrain"
         },
         {
             "class": "Rogue",
             "core_ability": "Dexterity",
+            "image": "https://www.dndbeyond.com/avatars/thumbnails/6/384/420/618/636272820319276620.png",
             "feature": "Sneak Attack"
         },
         {
             "class": "Sorcerer",
             "core_ability": "Charisma",
+            "image": "https://www.dndbeyond.com/avatars/thumbnails/6/485/420/618/636274643818663058.png",
             "feature": "Metamagic"
         },
         {
             "class": "Warlock",
             "core_ability": "Charisma",
+            "image": "https://www.dndbeyond.com/avatars/thumbnails/6/375/420/618/636272708661726603.png",
             "feature": "Invocations"
         },
         {
             "class": "Wizard",
             "core_ability": "Intelligence",
+            "image": "https://www.dndbeyond.com/avatars/thumbnails/6/357/420/618/636272696881281556.png",
             "feature": "Spellbook"
         }
     ]
